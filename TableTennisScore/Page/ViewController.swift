@@ -6,6 +6,7 @@
 //
 
 import UIKit
+// test
 
 class Contestant {
     var nowScore: Int = 0
