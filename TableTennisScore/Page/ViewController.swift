@@ -12,6 +12,7 @@ class Contestant {
     var roundScore: Int = 0
     var name: String = ""
 }
+
 struct Action {
     var leftNowNumber: Int
     var rightNowNumber: Int
